@@ -2,7 +2,7 @@ cmsplugin-sections
 ==================
 
 This is a plugin "system" (really just two) for making "single-page scroller"
-websites super easy.
+websites super easy and unchallenging.
 
 It provides a Section Container plugin and a generic Section plugin out of the
 box. Section Containers allow Section plugins to be added inside them. Section
